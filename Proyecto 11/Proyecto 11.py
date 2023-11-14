@@ -1,3 +1,4 @@
+#Codigo para realizar scrapping en una web ficticia de libros
 import bs4
 import requests
 
