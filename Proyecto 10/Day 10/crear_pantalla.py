@@ -1,3 +1,4 @@
+#videojuego de naves espaciales
 import pygame
 import random
 import math
