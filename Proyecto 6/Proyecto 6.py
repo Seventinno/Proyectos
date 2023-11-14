@@ -1,3 +1,4 @@
+# Codigo que emula un recetario
 import os
 import shutil
 from os import system
