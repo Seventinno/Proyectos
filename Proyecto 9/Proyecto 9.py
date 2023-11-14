@@ -1,3 +1,5 @@
+#Codigo para buscar numeros de serie
+
 import math
 import re
 import time
