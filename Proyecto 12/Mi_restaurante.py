@@ -1,3 +1,4 @@
+#Codigo de gestor de restaurante
 from tkinter import *
 import tkinter.font as tkFont
 import random
